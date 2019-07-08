@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 numpy = "*"
 opencv2 = "*"
-matplotlib = "*"
-opencv-python = "*"
+matplotlib = "==3.1.1"
+opencv-python = "==4.1.0.25"
 
 [requires]
 python_version = "3.7"
